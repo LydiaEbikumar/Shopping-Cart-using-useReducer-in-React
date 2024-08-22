@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart-using-useReducer-in-React.git/static/css/main.fef04eb5.css",
+    "main.js": "/Shopping-Cart-using-useReducer-in-React.git/static/js/main.e7ee422c.js",
+    "static/media/pic9.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic9.540cb80856d1343fc3cb.jpg",
+    "static/media/pic2.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic2.07fd66c97bfa9accb624.jpg",
+    "static/media/pic3.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic3.a21d3fb1ec9d2570729c.jpg",
+    "static/media/pic8.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic8.6592ffb2ac8602b8f572.jpg",
+    "static/media/pic1.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic1.b78e5da7937d5ce36dba.jpg",
+    "static/media/pic6.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic6.aa5c0b36ee87ebc4db70.jpg",
+    "static/media/pic5.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic5.8d3aa005dcdc10ee9249.jpg",
+    "static/media/pic4.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic4.887f1634b9f360a77907.jpg",
+    "static/media/pic7.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic7.4251a4574caf342a4cbc.jpg",
+    "static/media/pic12.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic12.53723b17995f9c0fbff8.jpg",
+    "static/media/pic11.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic11.d9b14df78943a16ab2bf.jpg",
+    "static/media/pic10.jpg": "/Shopping-Cart-using-useReducer-in-React.git/static/media/pic10.d1eac60dca5f3bc66db2.jpg",
+    "index.html": "/Shopping-Cart-using-useReducer-in-React.git/index.html",
+    "main.fef04eb5.css.map": "/Shopping-Cart-using-useReducer-in-React.git/static/css/main.fef04eb5.css.map",
+    "main.e7ee422c.js.map": "/Shopping-Cart-using-useReducer-in-React.git/static/js/main.e7ee422c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef04eb5.css",
+    "static/js/main.e7ee422c.js"
+  ]
+}
