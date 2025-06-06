@@ -5,7 +5,7 @@ This project is a simple shopping cart application built with React. It demonstr
 
 ---
 
-![demo](demo/image.png)
+
 
 ---
 
