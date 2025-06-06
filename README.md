@@ -6,9 +6,6 @@ This project is a simple shopping cart application built with React. It demonstr
 ---
 
 
-
----
-
 ### Usage
 
 First install the dependencies
